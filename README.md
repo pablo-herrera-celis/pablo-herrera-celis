@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU4MzNyM3Z5Zmo3dmZmNG9uempjOGM5ZjU2MTJ5c2Zva3hxeHV5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [Task-Manager](https://github.com/pablo-herrera-celis/node3-task-manager)
+- 🔭 I’m currently working on [NOC-App](https://github.com/pablo-herrera-celis/NOC) 
 
 - 🌱 I’m currently learning **NodeJs**
 
