@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU4MzNyM3Z5Zmo3dmZmNG9uempjOGM5ZjU2MTJ5c2Zva3hxeHV5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on [node-webrest-server](https://github.com/pablo-herrera-celis/node-webrest-server) 
+- 🔭 I’m currently working on [node-webrest-server](https://github.com/pablo-herrera-celis/nest-pokedex) 
 
 - 🌱 I’m currently learning **NodeJs**
 
