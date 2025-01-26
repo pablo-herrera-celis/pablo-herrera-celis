@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [nest-pokedex](https://github.com/pablo-herrera-celis/nest-pokedex) 
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NestJs**
 
 - 📫 How to reach me **pablo.herrera.celis@unillanos.edu.co**
 
